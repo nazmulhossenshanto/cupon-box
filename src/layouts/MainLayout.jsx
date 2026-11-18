@@ -13,8 +13,7 @@ const MainLayout = () => {
 
         {/* main section */}
 
-      <main>
-        <h2>Main content will apear follow</h2>
+      <main> 
         <Outlet></Outlet>
       </main>
       <footer>
